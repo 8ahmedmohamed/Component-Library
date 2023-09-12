@@ -4,7 +4,7 @@
         "type": "git",
         "url": "https://github.com/8ahmedmohamed/Component-Library.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An example component library for react / learning.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
